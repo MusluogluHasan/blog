@@ -1,3 +1,3 @@
 # blog
 portfolyo
-[Your link here](http://hasanmusluoglu.epizy.com/hasan-blog/)
+[Your link here](http://musluoglu.epizy.com/blogum)
